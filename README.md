@@ -18,6 +18,7 @@ Examples to use endpoint's :
 {{host}}/clients/1
 
 ### 3.  PUT - (To update client, By id)
+```json
 <!-- Body to requisition: -->
 {
   "name": "John Brazilllll",
@@ -26,6 +27,7 @@ Examples to use endpoint's :
   "birthDate": "1994-07-20T10:30:00Z",
   "children": 2
 }
+```
 
 This endpoint too can return a location to access resource
 
