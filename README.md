@@ -1,6 +1,6 @@
 # Challenge of Bootcamp 3.0 - DevSuperior
 
-This project is a Rest API, with the concept of layers trhought:
+This project is a Rest API, with the concept of layers throught:
 
  ### Resources/Controller  <---  Service  <---  Repository  <---  Entity
  with use of the DTO's (Data Transfer Object) to give a reponse at endpoint
